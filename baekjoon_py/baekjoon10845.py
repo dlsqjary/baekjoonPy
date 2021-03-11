@@ -1,5 +1,4 @@
 import sys
-
 n = int(sys.stdin.readline())
 queue = []
 for i in range(n):
