@@ -7,6 +7,7 @@ for i in str:
 for i in result_arr:
     print(i, end=' ')
 
+
 """
 파이썬 리스트 개수 만들 때 : arr = [0] * n
 for문의 range()함수는 숫자로 범위를 줄 경우에 사용
